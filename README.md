@@ -16,11 +16,3 @@ This repository is where I keep all my practical work, exercises, and personal n
 * **PIXEL VALUES.xlsx** – A spreadsheet I put together to track raw pixel data and coordinates, which helps me visualize exactly how the code changes an image under the hood.
 
 ---
-
-### How to Run the Code Locally
-
-If you need to clone this and run the notebooks on your machine, make sure you have Python installed along with the required libraries.
-
-1. **Install dependencies:**
-   ```bash
-   pip install opencv-python pillow numpy pandas openpyxl jupyter
