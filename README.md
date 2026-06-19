@@ -1,6 +1,3 @@
-# OpenCV Coursework & Experiments
-
-This repository is where I keep all my practical work, exercises, and personal notes for my Computer Vision studies. I am using Python and OpenCV to learn the fundamentals of image processing and see how different algorithms manipulate image data.
 
 ---
 
