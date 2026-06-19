@@ -1,28 +1,26 @@
-# 👁️ Inside My OpenCV & Computer Vision Sandbox
+# OpenCV Coursework & Experiments
 
-Hey there! This is my personal workspace where I’m diving headfirst into Computer Vision. I'm using Python and OpenCV to figure out how machines process images, manipulate pixels, and ultimately make sense of the visual world.
-
-This repository serves as a hub for my hands-on experiments, tracking what I learn as I go.
+This repository is where I keep all my practical work, exercises, and personal notes for my Computer Vision studies. I am using Python and OpenCV to learn the fundamentals of image processing and see how different algorithms manipulate image data.
 
 ---
 
-### Who Am I?
-* **Student ID:** `2401100CSE0097`
+### Student Info
+* **Student ID:** 2401100CSE0097
 * **Focus:** Computer Vision & Image Processing
 
 ---
 
-### What I’m Working With
-Right now, the repository is split into two main areas:
-* **The `OpenCv/` folder:** This is where I write all my code. It’s packed with Jupyter Notebooks where I mess around with image filters and test out different algorithms.
-* **`PIXEL VALUES.xlsx`:** A quick spreadsheet I put together to map out raw pixel coordinates and color values so I can actually see what the code is doing to the image data behind the scenes.
+### Repository Contents
+
+* **OpenCv/** – A folder containing my Jupyter Notebooks. This is where I write and test all the code, from loading images to applying filters.
+* **PIXEL VALUES.xlsx** – A spreadsheet I put together to track raw pixel data and coordinates, which helps me visualize exactly how the code changes an image under the hood.
 
 ---
 
-### How to Run My Notebooks
+### How to Run the Code Locally
 
-If you want to pull this down and run the experiments on your own machine, you just need Python and a few core libraries. 
+If you need to clone this and run the notebooks on your machine, make sure you have Python installed along with the required libraries.
 
-1. **Install the tools:** Fire up your terminal and install the dependencies:
+1. **Install dependencies:**
    ```bash
    pip install opencv-python pillow numpy pandas openpyxl jupyter
