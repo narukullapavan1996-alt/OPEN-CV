@@ -2,7 +2,7 @@
 ---
 
 ### Student Info
-* **Student ID:** 2401100CSE0097
+* **Student Name:** Pavan 
 * **Focus:** Computer Vision & Image Processing
 
 ---
